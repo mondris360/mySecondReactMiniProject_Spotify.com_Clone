@@ -1,0 +1,12 @@
+/* css style for NavBar component */
+#navbar {
+    background-color: #000000;
+    height: 82px;
+    /* margin:-16px; */
+}
+
+#logo{
+    height: 42px;
+    margin-left: 347px;
+    margin-top: 22px;
+}
