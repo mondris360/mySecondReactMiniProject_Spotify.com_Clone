@@ -1,0 +1,26 @@
+*{
+    margin:0;
+    padding: 0;
+    
+
+}
+
+ul{
+    position: absolute;
+    margin-left: 561px;
+    margin-top: 33px;
+    margin-bottom: 100px;
+    display: inline;
+} 
+ul li {
+    list-style-type: none;
+    display: inline;
+    margin-left: 33px;
+    font-weight: 700;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+
+}

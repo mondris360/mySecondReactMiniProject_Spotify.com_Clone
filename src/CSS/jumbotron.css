@@ -1,0 +1,36 @@
+
+
+#jumbotron {
+    height: 901px;
+    background-color: #2D46B9;
+    background-image: url("../Images/backgroundImage.svg");
+    background-position: top;
+    padding-right: 80px;
+    /* margin-bottom: 200px; */
+}
+
+#jumbronTxt {
+    margin-top: 164px;
+    margin-left: 417px;
+    color: #1ED760;
+    font-size: 156px;
+    line-height: 166px;
+    letter-spacing: -0.04em !important;
+    font-weight: bolder;
+    position: absolute;
+
+
+}
+
+#middleText {
+    margin-left: 267px;
+}
+#bottomtxt {
+    background-color: red;
+    font-size: 15px !important;
+    margin-top: 47px;
+    margin-left: 300px;
+    line-height: 0;
+    /* text-align: center; */
+    letter-spacing: 0;
+}
