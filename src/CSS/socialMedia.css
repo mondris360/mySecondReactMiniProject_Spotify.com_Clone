@@ -18,3 +18,8 @@
     padding:8px;
 
 }
+
+#socialMediaIcons ul li:hover {
+    color: #1ED760;
+    cursor: pointer;
+}
