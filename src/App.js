@@ -6,6 +6,7 @@ import "./CSS/navbar.css";
 import './CSS/menuItem.css';
 import './CSS/jumbotron.css';
 import './CSS/footer.css';
+import './CSS/socialMedia.css';
 
 function App() {
   return (

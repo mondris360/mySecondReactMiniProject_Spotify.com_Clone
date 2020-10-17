@@ -9,7 +9,7 @@ const SocialMedia = (props) =>{
     });
     return (
         <div id="socialMediaIcons">
-            <ul style={{backgroundColor:"white"}}>
+            <ul>
                 { socialMediaIcons }
             </ul>
         </div>

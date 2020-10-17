@@ -19,7 +19,7 @@ const usefulLinks =  {
     footerText:   ["Help", "Web Player", "Free Mobile App"]  
 };
 
-const fontAwesomeClassNames  = ["fa fa-twitter", "fa fa-instagram", "fa fa-facebook"];
+const fontAwesomeClassNames  = ["fa fa-instagram", "fa fa-twitter", "fa fa-facebook"];
 
     return (
         <div id="footer"> 

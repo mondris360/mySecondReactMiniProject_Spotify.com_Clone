@@ -1,0 +1,20 @@
+
+
+#socialMediaIcons {
+    margin-left: 267px;
+    margin-top: 98px;
+    font-size: 28px;
+    color:white;
+    text-align: center;
+    
+
+
+}
+
+#socialMediaIcons ul li {
+    border: 1px solid #222326;
+    background-color: #222326;
+    border-radius: 100%;
+    padding:8px;
+
+}
