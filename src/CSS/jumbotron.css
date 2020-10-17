@@ -26,11 +26,23 @@
     margin-left: 267px;
 }
 #bottomtxt {
-    background-color: red;
     font-size: 15px !important;
     margin-top: 47px;
     margin-left: 300px;
     line-height: 0;
-    /* text-align: center; */
     letter-spacing: 0;
+}
+
+#jumbotron button {
+    position: relative;
+    width: 230px;
+    margin-left: 803px;
+    margin-top: 600px;
+    height: 48px;
+    border: 1px solid #1ED760;
+    border-radius: 50px;
+    background-color: #1ED760;
+    color: #2940A8;
+    font-weight: bold;
+    line-height: 0;
 }

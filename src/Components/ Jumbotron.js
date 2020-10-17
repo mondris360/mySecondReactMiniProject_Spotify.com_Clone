@@ -1,4 +1,5 @@
 import React from "react";
+import Button from './Button';
 
 const Jumbotron = () => {
 
@@ -8,7 +9,8 @@ const Jumbotron = () => {
                 <p>Listening is </p>
                 <p id="middleText"> everything </p>
                 <p id="bottomtxt"> Millions of songs and podcasts. No credit card needed.</p>
-             </div>
+            </div>
+            < Button name="GET SPORTIFY FREE"/>
         </div>
     )
 }

@@ -1,0 +1,64 @@
+/* style for the Footer component */
+#footer{
+    display: flex;
+    background-color: black;
+    height: 541px;
+}
+.categoryName {
+    color: #828488;
+    font-size: 11px;
+}
+
+#company {
+    position:absolute;
+    margin-top: 60px;
+    
+    /* margin: 0 1%; */
+}
+#company ul {
+    width: 198px;
+    text-align: center;
+}
+#company ul li {
+    display: block;
+    margin: 34px;
+}
+
+#communities {
+    position:absolute;
+    margin-top: 60px;
+    margin-left: 300px;
+}
+#communities ul {
+    width: 200px;
+    text-align: center;
+}
+#communities ul li {
+    display: block;
+    margin: 34px;
+    /* margin-left: 200px; */
+}
+
+#usefullinks{
+    position:absolute;
+    margin-top: 60px;
+    margin-left: 595px;
+}
+
+#usefullinks ul {
+    width: 200px;
+    text-align: center;
+}
+#usefullinks ul li {
+    display: block;
+    margin: 34px;
+}
+a:hover{
+    color: #1ED760;;
+}
+
+#bottomlogo{
+    height: 42px;
+    margin-left: 422px;
+    margin-top: 105px;
+}

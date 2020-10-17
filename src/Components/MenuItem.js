@@ -11,8 +11,7 @@ const MenuItem = (props) => {
        
         counter++;
         if(counter % 4 !== 0 ){
-            console.log("counter" + counter);
-            console.log( menuItem.name )
+  
             return <li key={ menuItem.name }><Link to={menuItem.url}> { menuItem.name } </Link> </li>
 
         } else {
@@ -20,7 +19,7 @@ const MenuItem = (props) => {
             return (
                 // separate each three menus with a  vertical line separator
                 <React.Fragment>
-                    <li id="separator" key={ menuItem.name }><Link to={menuItem.url}> | </Link> </li>
+                    <li id="separator" key={ counter }><Link to={menuItem.url}> | </Link> </li>
                     <li key={ menuItem.name }><Link to={menuItem.url}> { menuItem.name } </Link> </li>
                 </React.Fragment>
             )
